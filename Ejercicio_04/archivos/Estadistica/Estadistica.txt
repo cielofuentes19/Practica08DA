@@ -1,0 +1,4 @@
+ANÁLISIS DE REGRESIÓN
+El análisis de regresión es una metodología estadística muy usada en la investigación.
+El objetivo del Análisis de Regresión es determinar el modelo matemático (una ecuación) 
+que relaciona las variables X y Y de la mejor forma posible.
