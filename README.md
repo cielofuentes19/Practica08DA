@@ -1,4 +1,4 @@
-# Práctica N°9 - Desarrollo de Aplicaciones
+# Práctica N°8 - Desarrollo de Aplicaciones
 
 El presente repositorio contiene el código desarrollado para el Informe de la Práctica N°6:
 - Experiencia de prácticas N°1: Rama Experiencia1
